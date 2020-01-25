@@ -1,3 +1,4 @@
+#pragma once
 #include "qdpdk.hpp"
 #define BURST_SIZE 32
 
